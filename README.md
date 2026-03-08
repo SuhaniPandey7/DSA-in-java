@@ -4,5 +4,6 @@ This repository contains Data Structures and Algorithms problems solved in Java.
 
 ## Currently Working On
 - Arrays
+- Sliding Windows
 
 More patterns will be added as I progress.
