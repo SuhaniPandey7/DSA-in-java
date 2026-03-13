@@ -6,5 +6,6 @@ This repository contains Data Structures and Algorithms problems solved in Java.
 - Arrays
 - Sliding Windows
 - Prefix Sum
+- HashMap
 
 More patterns will be added as I progress.
