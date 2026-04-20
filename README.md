@@ -8,5 +8,6 @@ This repository contains Data Structures and Algorithms problems solved in Java.
 - Prefix Sum
 - HashMap
 - String
+- Two Pointers
 
 More patterns will be added as I progress.
